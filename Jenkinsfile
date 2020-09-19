@@ -29,7 +29,7 @@ pipeline {
 
             input {
                 message "Shall we deploy to production?"
-                ok "Yes please!"
+                ok "Yes please"
             }
             
             steps {
